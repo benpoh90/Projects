@@ -9,8 +9,8 @@ SAT and ACT are standardized tests that many colleges and universities in the Un
 ### Problem Statement
 
 You are working for the state education board and your main responsibility is to increase SAT/ACT scores in your state. There are two main areas your stakeholders would like you to explore:
-    1.  Your stakeholders have heard that increasing participation rates will result in a fall in SAT/ACT scores. They are concerned that if they increase participation rates (such as via mandatory test policies), the state will have lower mean test scores. Investigating trends in participation rates and test scores, please find out if this is true.
-    2. Your stakeholders think that states with higher elementary and secondary school state budgets have higher SAT/ACT scores and increasing the state budgets in this area will improve test scores as schools have more funding to better focus on these tests. 
+   1. Your stakeholders have heard that increasing participation rates will result in a fall in SAT/ACT scores. They are concerned that if they increase participation rates (such as via mandatory test policies), the state will have lower mean test scores. Investigating trends in participation rates and test scores, please find out if this is true.
+   2. Your stakeholders think that states with higher elementary and secondary school state budgets have higher SAT/ACT scores and increasing the state budgets in this area will improve test scores as schools have more funding to better focus on these tests. 
 
 The analysis in this project will aim to visualise and answer these two problem statements.
 
@@ -66,11 +66,11 @@ The analysis is split into two main parts (1) participation rates and (2) budget
    2. increasing the state's education budgets will not improve test scores
 
 A few key results below:
-    - Inverse relationship between SAT and ACT participation rates - students take one test or the other.
-    - Negative correlation between participation rates and scores. 
-    - Furthermore, an increase in participation rates in from one year to the next will lead to an immediate fall in score.
-    - No observable correlation between budget and SAT score, but some positive correlation with ACT scores.
-    - A change in budget in the preceding year does not translate to an immediate change in test scores in the next year.
+   - Inverse relationship between SAT and ACT participation rates - students take one test or the other.
+   - Negative correlation between participation rates and scores. 
+   - Furthermore, an increase in participation rates in from one year to the next will lead to an immediate fall in score.
+   - No observable correlation between budget and SAT score, but some positive correlation with ACT scores.
+   - A change in budget in the preceding year does not translate to an immediate change in test scores in the next year.
 
 ---
 
