@@ -41,7 +41,13 @@ I have trained several models (Logistic Regression, Random Forest and Multinomia
 The best model from my project is: **Lemmatization + Count Vectorizer x Multinomial Naive Bayes**. This model has an accuracy score of 79% and F1 score of 77.5%.
 
 *Summary of scores:*
-<img src="https://imgur.com/2AJRUvd" style="float: center; margin: 2px; height: 100px">
+|CVEC x NB|Score|
+|---|---|
+|Best Score|0.749|
+|Accuracy Score|0.792|
+|Precision|0.771|
+|Recall|0.781|
+|F1|0.775|
 
 Key Points:
    - Removing lemmatization does not improve the model
