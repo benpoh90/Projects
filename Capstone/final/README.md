@@ -2,17 +2,17 @@
 
 ### Introduction
 
-In recent years, specialty coffee consumers are becoming more interested in their cup of brew. Behind every coffee they drink or brew, there is a wealth of information such as the the coffee bean's country/region of production, tasting notes, and processing method. Such information is often found on the coffee bean packaging, but unless the consumer manually googles that information from the packaging label, there is no way to efficiently find out more about the coffee. From a retailer perspective, more retailers want to be able to access what coffee consumers prefer, their likes or dislikes.
+In recent years, specialty coffee consumers are becoming more interested in their cup of brew. Behind every coffee they drink or brew, there is a wealth of information such as the the coffee bean's country/region of production, tasting notes, and processing method. Such information is often found on the coffee bean packaging, but unless the consumer manually googles that information from the packaging label, there is no way to efficiently find out more about the coffee. From a retailer perspective, more retailers would also want to be able to access what coffee consumers prefer, their likes or dislikes (i.e. what are they googling for).
 
-This forms the primary motivation for embarking on this capstone project, and the aims of this project is summarised in the 'Problem Statement' below.
+This gap forms the primary motivation for embarking on this capstone project, and the aims of this project are summarised in the 'Problem Statement' below.
 
 The notebooks should be read in this order: 
 <br>
-Part 1: OCR_Bulk_vFinal.ipynb
+**Part 1**: OCR_Bulk_vFinal.ipynb
 <br>
-Part 2: Recommender_System_vFinal.ipynb
+**Part 2**: Recommender_System_vFinal.ipynb
 <br>
-Appendix: Web_Scrape_vFinal.ipynb
+**Appendix**: Web_Scrape_vFinal.ipynb
 
 ---
 
