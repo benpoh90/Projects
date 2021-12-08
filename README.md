@@ -11,9 +11,11 @@ This is a repository of the projects which I have completed during the course. F
 ### Projects
 
 **Capstone**
+<br>
 [OCR Tool for Coffee Recommendations](https://github.com/benpoh90/Projects/tree/master/Capstone%20-%20OCR%20Tool%20for%20Coffee%20Recommendations/final)
 
 **Coursework**
+<br>
 [NLP Classification of Sub-Reddits](https://github.com/benpoh90/Projects/tree/master/NLP%20Classification%20of%20Sub-Reddits)
 <br>
 [Prediction of Housing Sale Prices in Ames](https://github.com/benpoh90/Projects/tree/master/Prediction%20of%20Housing%20Sale%20Prices)
