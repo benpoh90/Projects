@@ -32,9 +32,9 @@ To narrow down the scope of the project, I will be focussing only on single orig
    - 300 images of coffee labels scraped from Instagram and Google Search 
 
 #### Recommender System
-   - Data of 350 coffees (country, description, variety etc.) scraped from sweetmarias.com
+   - Data of 350 coffees (country, description, variety etc.) scraped from [Sweet Marias](https://www.sweetmarias.com/)
    
-*All rights reserved to the copyright owners.*
+*All image rights reserved to the copyright owners.*
 
 ---
 
@@ -75,44 +75,37 @@ There are the resources which I have found helpful in building this project.
 
 **OCR**
 <br>
-EAST Github:
+[EAST Github](https://github.com/argman/EAST)
 <br>
-https://github.com/argman/EAST
-<br>
-OpenCV Github (for implementation of EAST in Python):
-<br>
-https://github.com/opencv/opencv/tree/4.x/samples/dnn
+[OpenCV Github (for implementation of EAST in Python)](https://github.com/opencv/opencv/tree/4.x/samples/dnn)
 <br>
 Other Resources:
 <br>
-https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/?_ga=2.123146509.781830900.1634551481-1925401864.1633847684
+[Helpful guide from pyimagesearch on how to implement EAST](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/?_ga=2.123146509.781830900.1634551481-1925401864.1633847684)
 <br>
-https://nanonets.com/blog/ocr-with-tesseract/
+[Nanonets guide on OCR with Tesseract](https://nanonets.com/blog/ocr-with-tesseract/)
 <br>
-https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
+[Nanonets guide on OCR with Tesseract](https://nanonets.com/blog/deep-learning-ocr/#text-detection)
 <br>
-https://nanonets.com/blog/deep-learning-ocr/#text-detection
+[Pyimagesearch resource on using Tesseract](https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/)
+
 
 **Recommender System**
 <br>
-BERT (HuggingFace/SentenceTransformers):
+[HuggingFace/SentenceTransformers of BERT](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2)
 <br>
-https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2
-<br>
-Gensim's Word2Vec Implementation:
-<br>
-https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/
+[Gensim's Word2Vec Implementation](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
 <br>
 Building Recommender Systems:
 <br>
-https://medium.com/analytics-vidhya/movie-recommender-system-using-content-based-and-collaborative-filtering-84a98b9bd98e
+[Analytics Vidya article](https://medium.com/analytics-vidhya/movie-recommender-system-using-content-based-and-collaborative-filtering-84a98b9bd98e)
 <br>
-https://towardsdatascience.com/build-a-text-recommendation-system-with-python-e8b95d9f251c
+[Towards Data Science article](https://towardsdatascience.com/build-a-text-recommendation-system-with-python-e8b95d9f251c)
 <br>
 Other Resources:
 <br>
-https://www.jeremyjordan.me/autoencoders/
+[Auto-encoders guide by Jeremy Jordan](https://www.jeremyjordan.me/autoencoders/)
 <br>
-https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
+[Helpful article on transformer architectures](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
 
 ---

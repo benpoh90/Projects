@@ -15,14 +15,16 @@ This is a repository of the projects which I have completed during the course. F
 
 **Coursework**
 [NLP Classification of Sub-Reddits](https://github.com/benpoh90/Projects/tree/master/NLP%20Classification%20of%20Sub-Reddits)
+<br>
 [Prediction of Housing Sale Prices in Ames](https://github.com/benpoh90/Projects/tree/master/Prediction%20of%20Housing%20Sale%20Prices)
 
 ---
 
 ### Contact Me
 
-Email: benjaminpohzien[at]gmail[dot]com
-Linkedin: https://www.linkedin.com/in/benjamin-poh/
+**Email:** benjaminpohzien[at]gmail[dot]com
+<br>
+**Linkedin:** https://www.linkedin.com/in/benjamin-poh/
 
 ---
 

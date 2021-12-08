@@ -1,8 +1,10 @@
-# Ben Poh Project 2: Prediction of Housing Sale Prices
+# Prediction of Housing Sale Prices
 
 ### Introduction
 
 The data is from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010. It contains a range of **81 features** describing a property's characteristics. The target variable of this project will be 'SalePrice'.
+
+*This is project 2 for General Assembly Singapore's DSI24 course.*
 
 ---
 

@@ -14,6 +14,8 @@ To explain, british humour is largely based on sarcasm and satire and is aimed a
 
 Would the machine learning algorithm classify this as a 'success' since you have words associated with positive sentiments (e.g. excited, nice stroll)? The poster - living in wet and cold London - is most likely complaining about having to go out in the rain. 
 
+*Note: This is project 3 for General Assembly Singapore's DSI24 course.*
+
 ---
 
 ### Problem Statement
