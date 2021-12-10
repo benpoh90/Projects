@@ -8,19 +8,19 @@ This gap forms the primary motivation for embarking on this capstone project, an
 
 The notebooks should be read in this order: 
 <br>
-**Part 1**: OCR_Bulk_vFinal.ipynb
+**Part 1**: [OCR_Bulk_vFinal.ipynb](https://github.com/benpoh90/Projects/blob/master/Capstone%20-%20OCR%20Tool%20for%20Coffee%20Recommendations/final/code/OCR_Bulk%20vFinal.ipynb)
 <br>
-**Part 2**: Recommender_System_vFinal.ipynb
+**Part 2**: [Recommender_System_vFinal.ipynb](https://github.com/benpoh90/Projects/blob/master/Capstone%20-%20OCR%20Tool%20for%20Coffee%20Recommendations/final/code/Recommender_System_vFinal.ipynb)
 <br>
-**Appendix**: Web_Scrape_vFinal.ipynb
+**Appendix**: [Web_Scrape_vFinal.ipynb](https://github.com/benpoh90/Projects/blob/master/Capstone%20-%20OCR%20Tool%20for%20Coffee%20Recommendations/final/code/Web_Scrape_vFinal.ipynb)
 
 ---
 
 ### Problem Statement
 
 There are two main goals for the project:
-   - Part 1: Create a proof-of-concept for an optical character recognition (OCR) tool to capture text data from single-origin coffee bean packaging labels
-   - Part 2: Deploy NLP techniques to accurately recommend coffees from a online store (sweetmarias.com) by leveraging the text data in the Part 1
+   - **Part 1**: <br>Create a proof-of-concept for an optical character recognition (OCR) tool to capture text data from single-origin coffee bean packaging labels
+   - **Part 2**: <br>Deploy NLP techniques to accurately recommend coffees from a online store (sweetmarias.com) by leveraging the text data in the Part 1
 
 To narrow down the scope of the project, I will be focussing only on single origin coffee beans.
 
