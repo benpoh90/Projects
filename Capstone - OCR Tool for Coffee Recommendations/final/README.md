@@ -19,8 +19,8 @@ The notebooks should be read in this order:
 ### Problem Statement
 
 There are two main goals for the project:
-   - **Part 1**: <br>Create a proof-of-concept for an optical character recognition (OCR) tool to capture text data from single-origin coffee bean packaging labels
-   - **Part 2**: <br>Deploy NLP techniques to accurately recommend coffees from a online store (sweetmarias.com) by leveraging the text data in the Part 1
+   - **Part 1**: Create a proof-of-concept for an optical character recognition (OCR) tool to capture text data from single-origin coffee bean packaging labels
+   - **Part 2**: Deploy NLP techniques to accurately recommend coffees from a online store (sweetmarias.com) by leveraging the text data in Part 1
 
 To narrow down the scope of the project, I will be focussing only on single origin coffee beans.
 
