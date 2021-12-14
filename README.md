@@ -22,10 +22,8 @@ This is a repository of the projects which I have completed during the course. F
 
 ---
 
-### Contact Me
+### Connect With Me
 
-**Email:** benjaminpohzien[at]gmail[dot]com
-<br>
 **Linkedin:** https://www.linkedin.com/in/benjamin-poh/
 
 ---
